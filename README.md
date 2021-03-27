@@ -2,7 +2,7 @@
 Beach-Resort-Booker is an online room booking website for a single hotel. It is built using the React library( a Javascript library for building user interfaces). It has two pages, Home page and Room page.
 
 Home Page
-![home_page] (https://github.com/shivanipawar00/Beach-Resort/blob/master/screenshots/ss1.PNG)
+<img src="https://github.com/shivanipawar00/Beach-Resort/blob/master/screenshots/ss1.PNG">
 
 ![home_page] (https://github.com/shivanipawar00/Beach-Resort/blob/master/screenshots/ss2.PNG)
 
